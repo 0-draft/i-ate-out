@@ -1,6 +1,6 @@
 import { t, genre, area, tag, setLang, getLang, GENRE_LABELS, AREA_LABELS } from "./i18n.js";
 
-const REPO = "kanywst/i-ate-out";
+const REPO = "0-draft/i-ate-out";
 const LS_RATINGS = "i-ate-out/ratings/v1";
 const LS_LANG = "i-ate-out/lang/v1";
 

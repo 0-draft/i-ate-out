@@ -2,7 +2,7 @@
 
 Every place I eat, scored out of ten.
 
-<https://kanywst.github.io/i-ate-out/>
+<https://0-draft.github.io/i-ate-out/>
 
 The first batch of candidates is a researched shortlist of Tokyo places that work on your own, but nothing about the app assumes you are alone — `solo` is a flag on a place, and a filter, not the premise.
 
