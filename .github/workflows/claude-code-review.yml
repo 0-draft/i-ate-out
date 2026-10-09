@@ -80,6 +80,10 @@ jobs:
             If the change looks sound, say so in one line rather than inventing
             findings.
 
+            Do not sign anything you post. No "Generated with" footer, no co-authored-by
+            line, no self-attribution of any kind, in any comment or commit. The review
+            stands on the findings, and a signature is noise on every one of them.
+
             Use `gh pr comment` for top-level feedback.
             Use `mcp__github_inline_comment__create_inline_comment` (with
             `confirmed: true`) to point at specific lines.
