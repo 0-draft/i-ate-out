@@ -2,6 +2,8 @@
 
 Every place I eat, scored out of ten.
 
+This is a personal log: the scores are mine, and outside issues and pull requests are not taken.
+
 <https://0-draft.github.io/i-ate-out/>
 
 The first batch of candidates is a researched shortlist of Tokyo places that work on your own, but nothing about the app assumes you are alone — `solo` is a flag on a place, and a filter, not the premise.
@@ -66,3 +68,7 @@ npm run photos   # reindex assets/shops
 Hours and prices change; check before you go.
 
 69 of 71 places are on the map. Coordinates come from the GSI address search API, which answers with the exact address it matched, so each one is checked against the address the shop publishes; the two without one link out to a maps search instead. Two shops on the original list turned out to have closed — キッチン チェック in July 2024 and 君塚 in May 2023 — and were removed.
+
+## License
+
+No license is granted; all rights reserved. The shop data and the cover images it links to belong to their sources, so the repository is not offered for reuse.
